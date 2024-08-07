@@ -34,9 +34,9 @@ cd flutter_calculator
     
 ## Usage
 
-Run the program:<br><br>
+Run the program:
+<br>
 
-- Type the command below on the current path:<br>
 ```sh
 flutter run
 ```
