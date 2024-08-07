@@ -1,8 +1,8 @@
 # flutter_calculator
 
-A calculator with limited operation (+, -, *, /, (, ) only).
-Allow users to click button (0-9, +, -, *, /, (, )) to input an expression and click 'calculator' to output a result.
-Unit test cases including
+- A calculator with limited operation (+, -, *, /, (, ) only).
+- Allow users to click button (0-9, +, -, *, /, (, )) to input an expression and click 'calculator' to output a result.
+- Unit test cases including
 
 ## Table of Contents
 
