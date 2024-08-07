@@ -16,7 +16,7 @@
 
 - Git https://github.com/git-guides/install-git
 - Flutter https://docs.flutter.dev/get-started/install
-- 
+
 ### Steps
 
 Clone the repository:<br>
